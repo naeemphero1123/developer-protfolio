@@ -1,0 +1,41 @@
+body{
+    font-family: 'Uchen', serif;
+margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.coloor{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+padding-right: 100px;
+padding-left: 4%;
+}
+.half-width img{
+width: 90%;
+padding-left: 5%;
+padding-top: 8%;
+
+}
+.fooont{
+    font-size: 16px;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: 700;
+    padding-top: 10px;
+    padding: 10px 40px;
+    border-radius: 10px;
+   
+}
+.top-banner{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
