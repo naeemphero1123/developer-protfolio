@@ -91,12 +91,12 @@ padding-bottom: 8%;
 
 }
 #id-web{
-    border-left: 10px solid;
+    border-left: 15px solid;
 border-image: linear-gradient(orange, tomato);
     border-image-slice: 1;
 }
 #id-web2{
-    border-left: 10px solid;
+    border-left: 15px solid;
     border-image: linear-gradient(blue, cyan);
         border-image-slice: 1;
 
