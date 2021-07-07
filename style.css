@@ -30,12 +30,18 @@ padding-top: 8%;
 .link-button{
     text-decoration: none;
     color: white;
-    background-image: linear-gradient(orange, tomato) 
+    background-image: linear-gradient( orange, tomato);
     font-weight: 700;
-    padding-top: 10px;
-    padding: 10px 40px;
     border-radius: 10px;
-   
+    padding: 10px 40px;
+    padding-top: 10px;
+       
+    }
+
+
+
+
+
 }
 .top-banner{
     background-image: url(top-banner.png);
